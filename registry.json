@@ -1,4 +1,7 @@
 {
-  "type": "tool",
+  "type": "platform",
   "name": "espressif8266-xjn"
+  "version": {
+    "name": '3.4'
+  }  
 }
