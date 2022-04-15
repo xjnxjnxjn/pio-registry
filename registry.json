@@ -1,21 +1,4 @@
 {
   'type': 'tool',
-  'name': 'framework-esp8266-rtos-sdk',
-  'version': {
-    'name': '1.5.0-beta.5',
-    'unpacked_size': 24191885,
-    'released_at': '2020-08-16T16:10:00Z',
-    'files': [
-      {
-        'name': 'framework-esp8266-rtos-sdk-1.5.0-beta.5.tar.gz',
-        'size': 5747156,
-        'checksum': {
-          'sha256': 'd17905b48811c35d85ed00f57d2fda7139c8d87610a137f97e5fda9fd2d1164d'
-        },
-        'system': '*',
-        'download_url': 'https://dl.registry.platformio.org/download/platformio/tool/framework-esp8266-rtos-sdk/1.5.0-beta.5/framework-esp8266-rtos-sdk-1.5.0-beta.5.tar.gz'
-      }
-    ],
-    'is_latest': True
-  }
+  'name': 'espressif8266-xjn'
 }
