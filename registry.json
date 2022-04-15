@@ -1,4 +1,4 @@
 {
-  'type': 'tool',
-  'name': 'espressif8266-xjn'
+  "type": "tool",
+  "name": "espressif8266-xjn"
 }
