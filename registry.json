@@ -1,7 +1,14 @@
 {
-  "type": "platform",
-  "name": "espressif8266-xjn"
-  "version": {
-    "name": "3.4"
-  }  
+  "page": 1, 
+  "limit": 10, 
+  "total": 1, 
+  "items": [
+    {
+      "type": "platform",
+      "name": "espressif8266-xjn"
+      "version": {
+        "name": "3.4"
+      }  
+    }  
+  ]  
 }
